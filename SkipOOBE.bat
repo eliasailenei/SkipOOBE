@@ -1,4 +1,3 @@
-
 @echo off
 echo Welcome to SkipOOBE by Elias! Make sure you ran with admin rights!
 echo .
