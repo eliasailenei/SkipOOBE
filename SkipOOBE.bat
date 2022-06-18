@@ -1,17 +1,4 @@
 
-@rem ----- ExeScript Options Begin -----
-@rem ScriptType: console,invoker
-@rem DestDirectory: temp
-@rem Icon: C:\Users\Administrator\Documents\SkipOOBE\icon.ico
-@rem OutputFile: C:\Users\Administrator\Documents\SkipOOBE.exe
-@rem Comments: Made by Elias Ailenei. Visit https://github.com/eliasailenei for more!
-@rem CompanyName: Elias Ailenei
-@rem FileDescription: Made by Elias Ailenei. Visit https://github.com/eliasailenei for more!
-@rem FileVersion: 0.0.0.1
-@rem ProductName: SkipOOBE
-@rem ProductVersion: 0.0.0.1
-@rem 32Bit: yes
-@rem ----- ExeScript Options End -----
 @echo off
 echo Welcome to SkipOOBE by Elias! Make sure you ran with admin rights!
 echo .
