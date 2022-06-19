@@ -24,4 +24,4 @@ NOTE: If you need to use the Administrator account in future, delete the "delete
 Same process except you must use Edge as Internet Explorer refuses to co-operate.
 # What and Why?
 SkipOOBE is a batch script made by me which helps you to skip the OOBE which collects too much data about you which is very unnecessary. I made this script becuase most tutorials might be seen as hard to follow and do. With my script, the hard work has already been done! Just press enter and make your account! Simple! This script also helps you save alot of time... look at the following video comparison!
-[![SkipOOBE](https://i.imgur.com/mlSdiz0.png)](www.youtube.com/embed/TuVSjNyepaQ "SkipOOBE")
+[![SkipOOBE](https://i.imgur.com/mlSdiz0.png)](https://www.youtube.com/watch?v=TuVSjNyepaQ "SkipOOBE")
