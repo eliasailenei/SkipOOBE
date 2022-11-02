@@ -1,6 +1,6 @@
 # SkipOOBE
 Probably the best tool to skip the OOBE of Windows 10/11!
-#New! GUI version! (requires .Net 6.0)
+# New! GUI version! (requires .Net 6.0)
 - Fixes Audit mode errors
 - Skips OOBE when making an new account 
 - One click skip.
